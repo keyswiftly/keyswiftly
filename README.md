@@ -15,6 +15,6 @@ This repository contains the source code for My Organization's website. The webs
 - Custom domain setup
 - Responsive design
 
-##License
+## License
 
 This project is licensed under the MIT License.
